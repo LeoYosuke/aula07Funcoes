@@ -1,0 +1,10 @@
+D:\Users\leonardo.ykonichi\source\repos\aula07Funcoes\aula07Funcoes\bin\Debug\aula07Funcoes.exe.config
+D:\Users\leonardo.ykonichi\source\repos\aula07Funcoes\aula07Funcoes\bin\Debug\aula07Funcoes.exe
+D:\Users\leonardo.ykonichi\source\repos\aula07Funcoes\aula07Funcoes\bin\Debug\aula07Funcoes.pdb
+D:\Users\leonardo.ykonichi\source\repos\aula07Funcoes\aula07Funcoes\obj\Debug\aula07Funcoes.csproj.AssemblyReference.cache
+D:\Users\leonardo.ykonichi\source\repos\aula07Funcoes\aula07Funcoes\obj\Debug\aula07Funcoes.BTNmostrar.resources
+D:\Users\leonardo.ykonichi\source\repos\aula07Funcoes\aula07Funcoes\obj\Debug\aula07Funcoes.Properties.Resources.resources
+D:\Users\leonardo.ykonichi\source\repos\aula07Funcoes\aula07Funcoes\obj\Debug\aula07Funcoes.csproj.GenerateResource.cache
+D:\Users\leonardo.ykonichi\source\repos\aula07Funcoes\aula07Funcoes\obj\Debug\aula07Funcoes.csproj.CoreCompileInputs.cache
+D:\Users\leonardo.ykonichi\source\repos\aula07Funcoes\aula07Funcoes\obj\Debug\aula07Funcoes.exe
+D:\Users\leonardo.ykonichi\source\repos\aula07Funcoes\aula07Funcoes\obj\Debug\aula07Funcoes.pdb
